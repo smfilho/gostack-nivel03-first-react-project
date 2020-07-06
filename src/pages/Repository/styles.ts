@@ -9,7 +9,7 @@ export const Header = styled.header`
     display: flex;
     align-items: center;
     text-decoration: none;
-    color: #a8a8b3;
+    color: #3D3D4D;
     transition: 0.2s;
 
     &:hover {
@@ -119,7 +119,7 @@ export const Issues = styled.div`
 
     svg {
       margin-left: auto;
-      color: #cbcbd6;
+      color: #3D3D4D;
     }
   }
 `;

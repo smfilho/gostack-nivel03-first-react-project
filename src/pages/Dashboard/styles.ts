@@ -110,7 +110,7 @@ export const Repositories = styled.div`
 
     svg {
       margin-left: auto;
-      color: #azure;
+      color: #3D3D4D;
     }
   }
 `;
